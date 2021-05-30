@@ -1,4 +1,4 @@
-# new_project
+# Futter Testing Project
 
 A new Flutter project.
 
